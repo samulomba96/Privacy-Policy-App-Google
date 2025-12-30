@@ -1,6 +1,6 @@
 # Privacy-Policy-App-Google
 
-Questo repository contiene la **Privacy Policy ufficiale** dell’applicazione **Prodigy - RRO**.
+Questo repository contiene la **Privacy Policy ufficiale** dell’applicazione **"Prodigy - RRO", "Prodigy Dark CM12/12.1", "Prodigy Donate - RRO", "Prodigy Light CM12/12.1", "PurityYellowWorld - RRO", "PurityYellowWorld Donate - RRO", "error".**.
 
 La pagina è pubblicata tramite **GitHub Pages** ed è utilizzata per soddisfare i requisiti di trasparenza richiesti dal **Google Play Store**.
 
